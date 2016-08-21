@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# We will be using the Devise gem for authentication and user accounts.
+gem 'devise'
+
 # for Twitter UI component inc. navbar
 gem 'bootstrap-sass', '~> 3.3.6'
 
